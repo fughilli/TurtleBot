@@ -1,2 +1,5 @@
+*.cbp
+bin/
+obj/
 *.a
 *.o
