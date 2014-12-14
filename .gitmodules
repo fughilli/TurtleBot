@@ -1,3 +1,6 @@
 [submodule "VectorLib"]
 	path = VectorLib
 	url = https://github.com/fughilli/VectorLib.git
+[submodule "IKSolver"]
+	path = IKSolver
+	url = https://github.com/fughilli/IKSolver
